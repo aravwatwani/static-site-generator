@@ -5,8 +5,8 @@ A static site generator that increases website speed, build times, version contr
 
 ## Final Product
 
-![one](https://github.com/aravwatwani/static-site-generator/description-img/1.png)
-![two](https://github.com/aravwatwani/static-site-generator/description-img/2.png)
+![one](https://github.com/aravwatwani/static-site-generator/tree/master/description-img/1.png)
+![two](https://github.com/aravwatwani/static-site-generator/tree/master/description-img/2.png)
 
 
 ## Tools Used
