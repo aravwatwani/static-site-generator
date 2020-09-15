@@ -12,3 +12,7 @@ A static site generator that increases website speed, build times, version contr
 ## Tools Used
 
 Built with Python and the Jinja2 templating language to render markdown files into HTML.
+
+## To-Do
+
+Figure out hosting, implement nicer CSS.
