@@ -5,6 +5,8 @@ A static site generator that increases website speed, build times, version contr
 
 ## Final Product
 
+Not entirely complete, but more posts will be added, CSS will be altered, and things will constantly be published in the near future!
+
 ![one](https://github.com/aravwatwani/static-site-generator/blob/master/description-img/1.png)
 ![two](https://github.com/aravwatwani/static-site-generator/blob/master/description-img/2.png)
 
