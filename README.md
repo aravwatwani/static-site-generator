@@ -17,4 +17,4 @@ Built with Python and the Jinja2 templating language to render markdown files in
 
 ## To-Do
 
-Figure out hosting, implement nicer CSS.
+Figure out hosting, implement nicer CSS. Probably won't use this because of my new portfolio/blog, but still a cool and fun project.
