@@ -5,7 +5,7 @@ from jinja2 import Environment, PackageLoader
 from markdown2 import markdown
 
 
-# create empty array to store our posts
+# create empty dictionary to store our posts
 blog_posts = {}
 
 # iterate through each post in our content folder (markdown files)
